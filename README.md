@@ -1,4 +1,4 @@
-# magnum-shop-nuxt
+# shop-nuxt
 
 ## Build Setup
 
